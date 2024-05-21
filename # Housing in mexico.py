@@ -1,4 +1,4 @@
-# Housing in mexico
+# Housing in Mexico
 
 house_0_list = [ 255000, 185, 3]    #This is an observation of an individual house in Mexico 
 print(type(house_0_list))
